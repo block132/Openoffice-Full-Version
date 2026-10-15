@@ -265,4 +265,4 @@ This repository serves as the official landing page for Apache OpenOffice. The s
 **Get the most recent version of Apache OpenOffice today!**
 
 ---
-**Last updated:** 2026-10-15 17:32:08 UTC
+**Last updated:** 2026-10-15 20:47:48 UTC
